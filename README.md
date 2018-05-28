@@ -9,6 +9,6 @@ II. Problem Statement:
 2. Credit Screening Dataset – The data is related with credit screening of a Japanese credit company. People were asked if they were granted or denied credit. The classification goal is to predict if a person will be granted credit or not (variable A16). The dataset has 690 observations and 16 variables and Partitioning used 70 % Training, 30% Testing.
 
 III. Implications:
-1. bank Marketing Dataset - The training error tends to increase as the data is fed to the model, later it reduces gradually. Similarly, the testing error also reduces from 0.1 to 0.093. This implies that the model improves as more and more data is fed into it. However, there is a large difference between training and testing errors, which may be because of overfitting.
+1. Bank Marketing Dataset - The training error tends to increase as the data is fed to the model, later it reduces gradually. Similarly, the testing error also reduces from 0.1 to 0.093. This implies that the model improves as more and more data is fed into it. However, there is a large difference between training and testing errors, which may be because of overfitting.
 
 2. Credit Screening Dataset - The training error tends to increase as the data is fed to the model, later it reduces gradually. Similarly, the testing error also reduces, however the differences between the two is small, implying no under-fitting or over-fitting. 
